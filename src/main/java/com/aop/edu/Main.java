@@ -11,6 +11,5 @@ public class Main {
         Methods methods = applicationContext.getBean(Methods.class);
         System.out.println();
         methods.helloWorld();
-
     }
 }
